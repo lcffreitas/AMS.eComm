@@ -1,4 +1,4 @@
-namespace AMS.eComm.Domain.Core.Interfaces
+namespace AMS.eComm.Domain.Core.Interfaces.Repository
 {
     public interface IProduct : IRepository<Entities.Product>
     {

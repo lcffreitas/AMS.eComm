@@ -12,13 +12,14 @@ namespace AMS.eComm.Domain.Core.Entities
         /// </summary>
 
         public Product(Guid id, string description, decimal price, 
-        Guid colorId, Guid categoryId) 
+        Guid colorId, Guid categoryId, bool isActive) 
         {
             Id = id;
             Description = description;
             Price = price;
             ColorId = colorId;
             CategoryId = categoryId;
+            IsActive = isActive;
         }
 
         #endregion
@@ -28,5 +29,6 @@ namespace AMS.eComm.Domain.Core.Entities
         public decimal Price { get; set; }
         public Guid ColorId { get; set; }
         public Guid CategoryId { get; set; }
+        public bool IsActive { get; set; }
     }
 }

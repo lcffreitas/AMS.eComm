@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PROGRAMMERS\\Desktop\\aulaJefferson\\Aula1705\\AMS.eComm.API\\AMS.eComm.API.csproj": {}
+    "C:\\Users\\progamer\\Desktop\\4anoams\\ecom\\AMS.eComm\\src\\AMS.eComm.API\\AMS.eComm.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PROGRAMMERS\\Desktop\\aulaJefferson\\Aula1705\\AMS.eComm.API\\AMS.eComm.API.csproj": {
+    "C:\\Users\\progamer\\Desktop\\4anoams\\ecom\\AMS.eComm\\src\\AMS.eComm.API\\AMS.eComm.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PROGRAMMERS\\Desktop\\aulaJefferson\\Aula1705\\AMS.eComm.API\\AMS.eComm.API.csproj",
+        "projectUniqueName": "C:\\Users\\progamer\\Desktop\\4anoams\\ecom\\AMS.eComm\\src\\AMS.eComm.API\\AMS.eComm.API.csproj",
         "projectName": "AMS.eComm.API",
-        "projectPath": "C:\\Users\\PROGRAMMERS\\Desktop\\aulaJefferson\\Aula1705\\AMS.eComm.API\\AMS.eComm.API.csproj",
-        "packagesPath": "C:\\Users\\PROGRAMMERS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PROGRAMMERS\\Desktop\\aulaJefferson\\Aula1705\\AMS.eComm.API\\obj\\",
+        "projectPath": "C:\\Users\\progamer\\Desktop\\4anoams\\ecom\\AMS.eComm\\src\\AMS.eComm.API\\AMS.eComm.API.csproj",
+        "packagesPath": "C:\\Users\\progamer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\progamer\\Desktop\\4anoams\\ecom\\AMS.eComm\\src\\AMS.eComm.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PROGRAMMERS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\progamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

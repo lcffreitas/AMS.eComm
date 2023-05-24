@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XHWCL9dn46b0D7ZCpddJczlPTxoUs2Mv6jlt67B+WQE=",
+  "Source": "AMS.eComm.API",
+  "BasePath": "_content/AMS.eComm.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

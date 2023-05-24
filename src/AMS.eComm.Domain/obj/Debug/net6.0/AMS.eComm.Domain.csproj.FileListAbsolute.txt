@@ -1,0 +1,12 @@
+C:\Users\progamer\Desktop\4anoams\ecom\AMS.eComm\src\AMS.eComm.Domain\bin\Debug\net6.0\AMS.eComm.Domain.deps.json
+C:\Users\progamer\Desktop\4anoams\ecom\AMS.eComm\src\AMS.eComm.Domain\bin\Debug\net6.0\AMS.eComm.Domain.dll
+C:\Users\progamer\Desktop\4anoams\ecom\AMS.eComm\src\AMS.eComm.Domain\bin\Debug\net6.0\AMS.eComm.Domain.pdb
+C:\Users\progamer\Desktop\4anoams\ecom\AMS.eComm\src\AMS.eComm.Domain\obj\Debug\net6.0\AMS.eComm.Domain.csproj.AssemblyReference.cache
+C:\Users\progamer\Desktop\4anoams\ecom\AMS.eComm\src\AMS.eComm.Domain\obj\Debug\net6.0\AMS.eComm.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\progamer\Desktop\4anoams\ecom\AMS.eComm\src\AMS.eComm.Domain\obj\Debug\net6.0\AMS.eComm.Domain.AssemblyInfoInputs.cache
+C:\Users\progamer\Desktop\4anoams\ecom\AMS.eComm\src\AMS.eComm.Domain\obj\Debug\net6.0\AMS.eComm.Domain.AssemblyInfo.cs
+C:\Users\progamer\Desktop\4anoams\ecom\AMS.eComm\src\AMS.eComm.Domain\obj\Debug\net6.0\AMS.eComm.Domain.csproj.CoreCompileInputs.cache
+C:\Users\progamer\Desktop\4anoams\ecom\AMS.eComm\src\AMS.eComm.Domain\obj\Debug\net6.0\AMS.eComm.Domain.dll
+C:\Users\progamer\Desktop\4anoams\ecom\AMS.eComm\src\AMS.eComm.Domain\obj\Debug\net6.0\refint\AMS.eComm.Domain.dll
+C:\Users\progamer\Desktop\4anoams\ecom\AMS.eComm\src\AMS.eComm.Domain\obj\Debug\net6.0\AMS.eComm.Domain.pdb
+C:\Users\progamer\Desktop\4anoams\ecom\AMS.eComm\src\AMS.eComm.Domain\obj\Debug\net6.0\ref\AMS.eComm.Domain.dll

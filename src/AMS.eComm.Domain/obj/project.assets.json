@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PROGRAMMERS\\.nuget\\packages\\": {}
+    "C:\\Users\\progamer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PROGRAMMERS\\Desktop\\aulaJefferson\\Aula1705\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\progamer\\Desktop\\4anoams\\ecom\\AMS.eComm\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj",
       "projectName": "AMS.eComm.Domain",
-      "projectPath": "C:\\Users\\PROGRAMMERS\\Desktop\\aulaJefferson\\Aula1705\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj",
-      "packagesPath": "C:\\Users\\PROGRAMMERS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PROGRAMMERS\\Desktop\\aulaJefferson\\Aula1705\\AMS.eComm.Domain\\obj\\",
+      "projectPath": "C:\\Users\\progamer\\Desktop\\4anoams\\ecom\\AMS.eComm\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj",
+      "packagesPath": "C:\\Users\\progamer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\progamer\\Desktop\\4anoams\\ecom\\AMS.eComm\\src\\AMS.eComm.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PROGRAMMERS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\progamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

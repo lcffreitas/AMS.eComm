@@ -1,0 +1,5 @@
+C:\Users\progamer\Desktop\4anoams\ecom\AMS.eComm\src\AMS.eComm.Infra.Data\obj\Debug\net6.0\AMS.eComm.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\progamer\Desktop\4anoams\ecom\AMS.eComm\src\AMS.eComm.Infra.Data\obj\Debug\net6.0\AMS.eComm.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\progamer\Desktop\4anoams\ecom\AMS.eComm\src\AMS.eComm.Infra.Data\obj\Debug\net6.0\AMS.eComm.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\progamer\Desktop\4anoams\ecom\AMS.eComm\src\AMS.eComm.Infra.Data\obj\Debug\net6.0\AMS.eComm.Infra.Data.AssemblyInfo.cs
+C:\Users\progamer\Desktop\4anoams\ecom\AMS.eComm\src\AMS.eComm.Infra.Data\obj\Debug\net6.0\AMS.eComm.Infra.Data.csproj.CoreCompileInputs.cache
